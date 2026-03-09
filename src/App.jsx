@@ -12,6 +12,7 @@ const App = () => {
 		<Navbar />
 		<Hero />
 		<div className='h-dvh'></div>
+		
 	</main>
  )
 }
